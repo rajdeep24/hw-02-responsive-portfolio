@@ -51,3 +51,18 @@ body {
 .card {
 	border: none;
 }
+
+/* Contact Form Styling */
+.btn-primary {
+	background-color: #4aaaa5;
+	transition: background-color 0.5s ease;
+	border: none;
+	border-radius: 0%;
+	margin-bottom: 35px;
+}
+.btn-primary:hover {
+	background-color: #4aaa;
+	border: solid 1px #4aaaa5;
+	border-radius: 0%;
+	margin-bottom: 35px;
+}
