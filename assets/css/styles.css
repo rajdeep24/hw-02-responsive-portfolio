@@ -42,3 +42,12 @@ body {
 	height: 60px; /* Set the fixed height of the footer here */
 	line-height: 60px; /* Vertically center the text there */
 }
+
+/* Portfolio Styling */
+.card-img-top {
+	padding: 10px;
+	padding-bottom: 35px;
+}
+.card {
+	border: none;
+}
