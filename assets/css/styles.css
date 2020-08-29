@@ -1,0 +1,44 @@
+body {
+	height: auto;
+	width: 100vw;
+	background-image: url("../images/ignasi_pattern_s.png");
+}
+.navbar-brand {
+	color: white !important;
+	background: #4aaaa5;
+	font-weight: bold;
+	font-family: serif;
+	font-size: 30px;
+}
+
+.pull-left {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.pull-right {
+	float: right;
+}
+#content-col {
+	background: white;
+	margin-top: 100px;
+	margin-bottom: 150px;
+}
+
+#about-me {
+	font-family: serif;
+	padding-top: 20px;
+	color: #4aaaa5;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+.footer {
+	position: fixed;
+	bottom: 0;
+	margin-top: 50px;
+	border-top: solid 5px #4aaaa5;
+	width: 100%;
+	height: 60px; /* Set the fixed height of the footer here */
+	line-height: 60px; /* Vertically center the text there */
+}
