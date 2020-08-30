@@ -32,7 +32,7 @@ body {
 	font-size: 60px;
 	font-weight: bold;
 }
-
+/* Footer styling - applied fixed value to the position property */
 .footer {
 	position: fixed;
 	bottom: 0;
